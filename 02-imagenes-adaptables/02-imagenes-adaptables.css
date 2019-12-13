@@ -1,0 +1,25 @@
+body {
+    margin: 0 auto;
+    font-size: 16px;
+    max-width: 1024px;
+}
+article {
+    background-color: blue;
+    padding: 1em;
+    width: 70%;
+    float: left;
+    box-sizing: border-box;
+    font-size:2em;
+}
+aside {
+    background-color: red;
+    padding: 1em;
+    width: 30%;
+    float: right;
+    box-sizing: border-box;
+    font-size:1em;
+}
+.fluid-image {
+  min-width:250px;
+  max-width:500px;
+}
