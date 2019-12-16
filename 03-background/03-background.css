@@ -1,4 +1,5 @@
 div {
+
     width: 550px;
     height: 350px;
     color: #777;
@@ -8,22 +9,35 @@ div {
     background-repeat: no-repeat;
     margin: 1%;
     float: left;
+
 }
 br {
+
     clear: both;
+
 }
 .img1 {
+
     background-image: url(img/disenio-fluido.jpg);
+
 }
 .img2 {
+
     background-image: url(img/content-is-like-water.jpg);
+
 }
 .div1 {
+
     background-size: contain;
+
 }
 .div2 {
+
     background-size: 100%;
+
 }
 .div3 {
+    
     background-size:auto;
+
 }
